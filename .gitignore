@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+*.log
+logs/
+
+# Build
+target/
+build/
+dist/
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
